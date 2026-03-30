@@ -1,16 +1,13 @@
-## Hi there 👋
+# Hi, I'm vibhu srivastava 👋
 
-<!--
-**vibhu25bai10249-svg/vibhu25bai10249-svg** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🎓 B.Tech Student – cse(ai/ml)  
+🏫 VIT Bhopal University  
+📅 Year: 1st Year  
 
-Here are some ideas to get you started:
+🌱 I am currently learning computer science, programming basics, and exploring new technologies.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+🚀 My Goal:
+To build strong technical skills and create useful projects over the next four years.
+
+📫 Connect with me:
+- LinkedIn: https://www.linkedin.com/in/vibhu-srivastava-60046a3bb/?skipRedirect=true
